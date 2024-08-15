@@ -1,0 +1,101 @@
+.box-1{
+    width: 100%;
+    background-color: aqua;
+    height: 40vh;
+}
+
+.box-title{
+    background-color: tomato;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+.box-text{
+    color: blue;
+    background-color: tomato;
+}
+.box-text-2{
+    background-color: yellow;
+    color: green;
+    width: 50%;
+    
+}
+.box-2{
+    max-width: 90%;
+    height: 35vh;
+    margin: 0 auto;
+    background-color: rgb(138, 138, 138);
+}
+.box-title2{
+    text-align: center;
+    background-color: rgb(13, 11, 11);
+    color: rgb(255, 255, 255);
+}
+.box2-text-2{
+    background-color: rgb(57, 56, 56);
+}
+.box-2>p>span{
+    background-color: rgb(246, 251, 255);
+}
+.box-3{
+    max-width: 80%;
+    height: 50vh;
+    margin: 0 auto;
+    background-color: #0000ff;
+}
+.box-title3{
+    text-align: center;
+    font-size: 35px;
+    color: #ffffff;
+    border-bottom: 6px dotted white;
+}
+.box3-text{
+    border-bottom: 6px dotted white;
+    color: #cbec98;
+    padding: 10px;
+}
+.box3-text2{
+    border-bottom: 6px dotted white;
+    color: #cbec98;
+    padding: 10px;
+}
+.box3-text3{
+    color: #cbec98;
+    border-bottom: 6px dotted white;
+    padding: 10px;
+}
+.box-3>p>span{
+    border-bottom: 4px solid #c70d0d;
+}
+.box-4{
+    max-width: 70%;
+    height: 50vh;
+    margin: 0 auto;
+    background-color: hsl(10, 100%, 99%, 1);
+    border-right: 5px solid hsl(0, 0%, 0%);
+    border-left: 5px solid hsl(0, 0%, 0%);
+    
+}
+.box-title4{
+    text-align: center;
+    font-size: 40px;
+    padding: 15px;
+    color: hsla(0, 100%, 100%, 1);
+    background-color: hsl(0, 0%, 0%);
+}
+.box4-text{
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+.box4-text2{
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+.box4-text3{
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+.box-4>p>span{
+    background-color: hsl(53, 100%, 65%);
+    color: hsl(0, 0%, 2%);
+}
